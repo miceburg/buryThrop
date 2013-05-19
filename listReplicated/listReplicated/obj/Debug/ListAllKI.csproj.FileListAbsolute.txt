@@ -1,0 +1,20 @@
+C:\Users\mooret\AppData\Local\Temporary Projects\ListAllKI\bin\Debug\ListAllKI.exe
+C:\Users\mooret\AppData\Local\Temporary Projects\ListAllKI\bin\Debug\ListAllKI.pdb
+C:\Users\mooret\AppData\Local\Temporary Projects\ListAllKI\obj\Debug\ListAllKI.csprojResolveAssemblyReference.cache
+C:\Users\mooret\AppData\Local\Temporary Projects\ListAllKI\obj\Debug\ListAllKI.Form1.resources
+C:\Users\mooret\AppData\Local\Temporary Projects\ListAllKI\obj\Debug\ListAllKI.Properties.Resources.resources
+C:\Users\mooret\AppData\Local\Temporary Projects\ListAllKI\obj\Debug\ListAllKI.csproj.GenerateResource.Cache
+C:\Users\mooret\AppData\Local\Temporary Projects\ListAllKI\obj\Debug\ListAllKI.exe
+C:\Users\mooret\AppData\Local\Temporary Projects\ListAllKI\obj\Debug\ListAllKI.pdb
+\\dw2nas01\dcpublic\users\mooret\Visual Studio 2012\Projects\ListAllKI\ListAllKI\obj\Debug\ListAllKI.exe
+\\dw2nas01\dcpublic\users\mooret\Visual Studio 2012\Projects\ListAllKI\ListAllKI\obj\Debug\ListAllKI.pdb
+\\dw2nas01\dcpublic\users\mooret\Visual Studio 2012\Projects\ListAllKI\ListAllKI\bin\Debug\ListAllKI.exe
+\\dw2nas01\dcpublic\users\mooret\Visual Studio 2012\Projects\ListAllKI\ListAllKI\bin\Debug\ListAllKI.pdb
+\\dw2nas01\dcpublic\users\mooret\Visual Studio 2012\Projects\ListAllKI\ListAllKI\obj\Debug\ListAllKI.csprojResolveAssemblyReference.cache
+\\dw2nas01\dcpublic\users\mooret\Visual Studio 2012\Projects\ListAllKI\ListAllKI\obj\Debug\ListAllKI.Form1.resources
+\\dw2nas01\dcpublic\users\mooret\Visual Studio 2012\Projects\ListAllKI\ListAllKI\obj\Debug\ListAllKI.Properties.Resources.resources
+\\dw2nas01\dcpublic\users\mooret\Visual Studio 2012\Projects\ListAllKI\ListAllKI\obj\Debug\ListAllKI.csproj.GenerateResource.Cache
+C:\Users\tmoore82\Documents\Visual Studio 2012\Projects\Pillsbury\KI\ListAllKI\ListAllKI\obj\Debug\ListAllKI.exe
+C:\Users\tmoore82\Documents\Visual Studio 2012\Projects\Pillsbury\KI\ListAllKI\ListAllKI\obj\Debug\ListAllKI.pdb
+C:\Users\tmoore82\Documents\Visual Studio 2012\Projects\Pillsbury\KI\ListAllKI\listReplicated\obj\Debug\ListAllKI.exe
+C:\Users\tmoore82\Documents\Visual Studio 2012\Projects\Pillsbury\KI\ListAllKI\listReplicated\obj\Debug\ListAllKI.pdb

@@ -1,0 +1,44 @@
+C:\Users\mooret\AppData\Local\Temporary Projects\adsPutterBacker\bin\Debug\adsPutterBacker.exe
+C:\Users\mooret\AppData\Local\Temporary Projects\adsPutterBacker\bin\Debug\adsPutterBacker.pdb
+C:\Users\mooret\AppData\Local\Temporary Projects\adsPutterBacker\obj\Debug\adsPutterBacker.csprojResolveAssemblyReference.cache
+C:\Users\mooret\AppData\Local\Temporary Projects\adsPutterBacker\obj\Debug\adsPutterBacker.Form1.resources
+C:\Users\mooret\AppData\Local\Temporary Projects\adsPutterBacker\obj\Debug\adsPutterBacker.Properties.Resources.resources
+C:\Users\mooret\AppData\Local\Temporary Projects\adsPutterBacker\obj\Debug\adsPutterBacker.csproj.GenerateResource.Cache
+C:\Users\mooret\AppData\Local\Temporary Projects\adsPutterBacker\obj\Debug\adsPutterBacker.exe
+C:\Users\mooret\AppData\Local\Temporary Projects\adsPutterBacker\obj\Debug\adsPutterBacker.pdb
+C:\Users\mooret\AppData\Local\Temporary Projects\adsPutterBacker\bin\Debug\Interop.InteropExtensionLib.dll
+C:\Users\mooret\AppData\Local\Temporary Projects\adsPutterBacker\obj\Debug\Interop.InteropExtensionLib.dll
+C:\Users\mooret\AppData\Local\Temporary Projects\adsPutterBacker\obj\Debug\adsPutterBacker.csproj.ResolveComReference.cache
+\\dw2nas01\dcpublic\users\mooret\Visual Studio 2012\Projects\adsPutterBacker\adsPutterBacker\obj\Debug\Interop.InteropExtensionLib.dll
+\\dw2nas01\dcpublic\users\mooret\Visual Studio 2012\Projects\adsPutterBacker\adsPutterBacker\obj\Debug\adsPutterBacker.csproj.ResolveComReference.cache
+\\dw2nas01\dcpublic\users\mooret\Visual Studio 2012\Projects\adsPutterBacker\adsPutterBacker\obj\Debug\adsPutterBacker.exe
+\\dw2nas01\dcpublic\users\mooret\Visual Studio 2012\Projects\adsPutterBacker\adsPutterBacker\obj\Debug\adsPutterBacker.pdb
+\\dw2nas01\dcpublic\users\mooret\Visual Studio 2012\Projects\adsPutterBacker\adsPutterBacker\bin\Debug\adsPutterBacker.exe
+\\dw2nas01\dcpublic\users\mooret\Visual Studio 2012\Projects\adsPutterBacker\adsPutterBacker\bin\Debug\adsPutterBacker.pdb
+\\dw2nas01\dcpublic\users\mooret\Visual Studio 2012\Projects\adsPutterBacker\adsPutterBacker\bin\Debug\Interop.InteropExtensionLib.dll
+\\dw2nas01\dcpublic\users\mooret\Visual Studio 2012\Projects\adsPutterBacker\adsPutterBacker\obj\Debug\adsPutterBacker.csprojResolveAssemblyReference.cache
+\\dw2nas01\dcpublic\users\mooret\Visual Studio 2012\Projects\adsPutterBacker\adsPutterBacker\obj\Debug\adsPutterBacker.Form1.resources
+\\dw2nas01\dcpublic\users\mooret\Visual Studio 2012\Projects\adsPutterBacker\adsPutterBacker\obj\Debug\adsPutterBacker.Properties.Resources.resources
+\\dw2nas01\dcpublic\users\mooret\Visual Studio 2012\Projects\adsPutterBacker\adsPutterBacker\obj\Debug\adsPutterBacker.csproj.GenerateResource.Cache
+\\dw2nas01\dcpublic\users\mooret\Visual Studio 2012\Projects\asdPutterBacker\adsPutterBacker\obj\Debug\Interop.InteropExtensionLib.dll
+\\dw2nas01\dcpublic\users\mooret\Visual Studio 2012\Projects\asdPutterBacker\adsPutterBacker\obj\Debug\adsPutterBacker.csproj.ResolveComReference.cache
+\\dw2nas01\dcpublic\users\mooret\Visual Studio 2012\Projects\asdPutterBacker\adsPutterBacker\obj\Debug\adsPutterBacker.exe
+\\dw2nas01\dcpublic\users\mooret\Visual Studio 2012\Projects\asdPutterBacker\adsPutterBacker\obj\Debug\adsPutterBacker.pdb
+\\dw2nas01\dcpublic\users\mooret\Visual Studio 2012\Projects\asdPutterBacker\adsPutterBacker\bin\Debug\adsPutterBacker.exe
+\\dw2nas01\dcpublic\users\mooret\Visual Studio 2012\Projects\asdPutterBacker\adsPutterBacker\bin\Debug\adsPutterBacker.pdb
+\\dw2nas01\dcpublic\users\mooret\Visual Studio 2012\Projects\asdPutterBacker\adsPutterBacker\bin\Debug\Interop.InteropExtensionLib.dll
+\\dw2nas01\dcpublic\users\mooret\Visual Studio 2012\Projects\asdPutterBacker\adsPutterBacker\obj\Debug\adsPutterBacker.csprojResolveAssemblyReference.cache
+\\dw2nas01\dcpublic\users\mooret\Visual Studio 2012\Projects\asdPutterBacker\adsPutterBacker\obj\Debug\adsPutterBacker.Form1.resources
+\\dw2nas01\dcpublic\users\mooret\Visual Studio 2012\Projects\asdPutterBacker\adsPutterBacker\obj\Debug\adsPutterBacker.Properties.Resources.resources
+\\dw2nas01\dcpublic\users\mooret\Visual Studio 2012\Projects\asdPutterBacker\adsPutterBacker\obj\Debug\adsPutterBacker.csproj.GenerateResource.Cache
+C:\Users\mooret\Desktop\asdPutterBacker\adsPutterBacker\obj\Debug\Interop.InteropExtensionLib.dll
+C:\Users\mooret\Desktop\asdPutterBacker\adsPutterBacker\obj\Debug\adsPutterBacker.csproj.ResolveComReference.cache
+C:\Users\mooret\Desktop\asdPutterBacker\adsPutterBacker\obj\Debug\adsPutterBacker.exe
+C:\Users\mooret\Desktop\asdPutterBacker\adsPutterBacker\obj\Debug\adsPutterBacker.pdb
+C:\Users\mooret\Desktop\asdPutterBacker\adsPutterBacker\obj\Debug\adsPutterBacker.csprojResolveAssemblyReference.cache
+C:\Users\mooret\Desktop\asdPutterBacker\adsPutterBacker\obj\Debug\adsPutterBacker.Form1.resources
+C:\Users\mooret\Desktop\asdPutterBacker\adsPutterBacker\obj\Debug\adsPutterBacker.Properties.Resources.resources
+C:\Users\mooret\Desktop\asdPutterBacker\adsPutterBacker\obj\Debug\adsPutterBacker.csproj.GenerateResource.Cache
+C:\Users\mooret\Desktop\asdPutterBacker\adsPutterBacker\bin\Debug\adsPutterBacker.exe
+C:\Users\mooret\Desktop\asdPutterBacker\adsPutterBacker\bin\Debug\adsPutterBacker.pdb
+C:\Users\mooret\Desktop\asdPutterBacker\adsPutterBacker\bin\Debug\Interop.InteropExtensionLib.dll

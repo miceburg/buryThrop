@@ -1,0 +1,13 @@
+C:\vsProjects\attach2email\attach2email\bin\Release\attach2email.exe.config
+C:\vsProjects\attach2email\attach2email\bin\Release\attach2email.exe
+C:\vsProjects\attach2email\attach2email\bin\Release\attach2email.pdb
+C:\vsProjects\attach2email\attach2email\obj\Release\attach2email.csprojResolveAssemblyReference.cache
+C:\vsProjects\attach2email\attach2email\obj\Release\attach2email.Content.resources
+C:\vsProjects\attach2email\attach2email\obj\Release\attach2email.dragFiles.resources
+C:\vsProjects\attach2email\attach2email\obj\Release\attach2email.Properties.Resources.resources
+C:\vsProjects\attach2email\attach2email\obj\Release\attach2email.csproj.GenerateResource.Cache
+C:\vsProjects\attach2email\attach2email\obj\Release\attach2email.exe
+C:\vsProjects\attach2email\attach2email\obj\Release\attach2email.pdb
+C:\Users\tmoore82\Documents\Visual Studio 2012\Projects\Pillsbury\attach2email\attach2email\bin\Release\attach2email.exe.config
+C:\Users\tmoore82\Documents\Visual Studio 2012\Projects\Pillsbury\attach2email\attach2email\obj\Release\attach2email.exe
+C:\Users\tmoore82\Documents\Visual Studio 2012\Projects\Pillsbury\attach2email\attach2email\obj\Release\attach2email.pdb

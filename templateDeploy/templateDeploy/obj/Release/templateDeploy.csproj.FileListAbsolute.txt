@@ -1,0 +1,13 @@
+C:\Users\tmoore82\Documents\Visual Studio 2012\Projects\Pillsbury\KI\templateDeploy\kiDeploy\obj\Release\templateDeploy.csprojResolveAssemblyReference.cache
+C:\Users\tmoore82\Documents\Visual Studio 2012\Projects\Pillsbury\KI\templateDeploy\kiDeploy\obj\Release\templateDeploy.csproj.GenerateResource.Cache
+C:\Users\tmoore82\Documents\Visual Studio 2012\Projects\Pillsbury\KI\templateDeploy\kiDeploy\bin\Release\templateDeploy.exe.config
+C:\Users\tmoore82\Documents\Visual Studio 2012\Projects\Pillsbury\KI\templateDeploy\kiDeploy\bin\Release\templateDeploy.exe
+C:\Users\tmoore82\Documents\Visual Studio 2012\Projects\Pillsbury\KI\templateDeploy\kiDeploy\bin\Release\templateDeploy.pdb
+C:\Users\tmoore82\Documents\Visual Studio 2012\Projects\Pillsbury\KI\templateDeploy\kiDeploy\obj\Release\templateDeploy.Config.resources
+C:\Users\tmoore82\Documents\Visual Studio 2012\Projects\Pillsbury\KI\templateDeploy\kiDeploy\obj\Release\templateDeploy.Form1.resources
+C:\Users\tmoore82\Documents\Visual Studio 2012\Projects\Pillsbury\KI\templateDeploy\kiDeploy\obj\Release\templateDeploy.Properties.Resources.resources
+C:\Users\tmoore82\Documents\Visual Studio 2012\Projects\Pillsbury\KI\templateDeploy\kiDeploy\obj\Release\templateDeploy.exe
+C:\Users\tmoore82\Documents\Visual Studio 2012\Projects\Pillsbury\KI\templateDeploy\kiDeploy\obj\Release\templateDeploy.pdb
+C:\Users\tmoore82\Documents\GitHub\buryThrop\templateDeploy\templateDeploy\bin\Release\templateDeploy.exe.config
+C:\Users\tmoore82\Documents\GitHub\buryThrop\templateDeploy\templateDeploy\obj\Release\templateDeploy.exe
+C:\Users\tmoore82\Documents\GitHub\buryThrop\templateDeploy\templateDeploy\obj\Release\templateDeploy.pdb

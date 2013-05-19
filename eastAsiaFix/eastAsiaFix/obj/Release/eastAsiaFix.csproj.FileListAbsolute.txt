@@ -1,0 +1,9 @@
+C:\vsProjects\eastAsiaFix\eastAsiaFix\bin\Release\eastAsiaFix.exe.config
+C:\vsProjects\eastAsiaFix\eastAsiaFix\bin\Release\eastAsiaFix.exe
+C:\vsProjects\eastAsiaFix\eastAsiaFix\bin\Release\eastAsiaFix.pdb
+C:\vsProjects\eastAsiaFix\eastAsiaFix\obj\Release\eastAsiaFix.csprojResolveAssemblyReference.cache
+C:\vsProjects\eastAsiaFix\eastAsiaFix\obj\Release\eastAsiaFix.exe
+C:\vsProjects\eastAsiaFix\eastAsiaFix\obj\Release\eastAsiaFix.pdb
+C:\Users\tmoore82\Documents\Visual Studio 2012\Projects\Pillsbury\eastAsiaFix\eastAsiaFix\bin\Release\eastAsiaFix.exe.config
+C:\Users\tmoore82\Documents\Visual Studio 2012\Projects\Pillsbury\eastAsiaFix\eastAsiaFix\obj\Release\eastAsiaFix.exe
+C:\Users\tmoore82\Documents\Visual Studio 2012\Projects\Pillsbury\eastAsiaFix\eastAsiaFix\obj\Release\eastAsiaFix.pdb

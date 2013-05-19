@@ -1,0 +1,16 @@
+C:\Users\tmoore82\Documents\Visual Studio 2012\Projects\Pillsbury\KI\ListAllKI\listReplicated\bin\Debug\listReplicated.exe
+C:\Users\tmoore82\Documents\Visual Studio 2012\Projects\Pillsbury\KI\ListAllKI\listReplicated\bin\Debug\listReplicated.pdb
+C:\Users\tmoore82\Documents\Visual Studio 2012\Projects\Pillsbury\KI\ListAllKI\listReplicated\obj\Debug\listReplicated.csprojResolveAssemblyReference.cache
+C:\Users\tmoore82\Documents\Visual Studio 2012\Projects\Pillsbury\KI\ListAllKI\listReplicated\obj\Debug\listReplicated.Form1.resources
+C:\Users\tmoore82\Documents\Visual Studio 2012\Projects\Pillsbury\KI\ListAllKI\listReplicated\obj\Debug\listReplicated.Properties.Resources.resources
+C:\Users\tmoore82\Documents\Visual Studio 2012\Projects\Pillsbury\KI\ListAllKI\listReplicated\obj\Debug\listReplicated.csproj.GenerateResource.Cache
+C:\Users\tmoore82\Documents\Visual Studio 2012\Projects\Pillsbury\KI\ListAllKI\listReplicated\obj\Debug\listReplicated.exe
+C:\Users\tmoore82\Documents\Visual Studio 2012\Projects\Pillsbury\KI\ListAllKI\listReplicated\obj\Debug\listReplicated.pdb
+C:\Users\tmoore82\Documents\GitHub\buryThrop\listReplicated\listReplicated\obj\Debug\listReplicated.exe
+C:\Users\tmoore82\Documents\GitHub\buryThrop\listReplicated\listReplicated\obj\Debug\listReplicated.pdb
+C:\Users\tmoore82\Documents\GitHub\buryThrop\listReplicated\listReplicated\bin\Debug\listReplicated.exe
+C:\Users\tmoore82\Documents\GitHub\buryThrop\listReplicated\listReplicated\bin\Debug\listReplicated.pdb
+C:\Users\tmoore82\Documents\GitHub\buryThrop\listReplicated\listReplicated\obj\Debug\listReplicated.csprojResolveAssemblyReference.cache
+C:\Users\tmoore82\Documents\GitHub\buryThrop\listReplicated\listReplicated\obj\Debug\listReplicated.Form1.resources
+C:\Users\tmoore82\Documents\GitHub\buryThrop\listReplicated\listReplicated\obj\Debug\listReplicated.Properties.Resources.resources
+C:\Users\tmoore82\Documents\GitHub\buryThrop\listReplicated\listReplicated\obj\Debug\listReplicated.csproj.GenerateResource.Cache

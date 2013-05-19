@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "attach2email", "attach2email\attach2email.csproj", "{ADD6680C-7A0C-4B83-8461-428A1486F625}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADD6680C-7A0C-4B83-8461-428A1486F625}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADD6680C-7A0C-4B83-8461-428A1486F625}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADD6680C-7A0C-4B83-8461-428A1486F625}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADD6680C-7A0C-4B83-8461-428A1486F625}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

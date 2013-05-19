@@ -1,0 +1,12 @@
+C:\Users\mooret\AppData\Local\Temporary Projects\eastAsiaFix\bin\Debug\eastAsiaFix.exe.config
+C:\Users\mooret\AppData\Local\Temporary Projects\eastAsiaFix\obj\Debug\eastAsiaFix.csprojResolveAssemblyReference.cache
+C:\Users\mooret\AppData\Local\Temporary Projects\eastAsiaFix\bin\Debug\eastAsiaFix.exe
+C:\Users\mooret\AppData\Local\Temporary Projects\eastAsiaFix\bin\Debug\eastAsiaFix.pdb
+C:\Users\mooret\AppData\Local\Temporary Projects\eastAsiaFix\obj\Debug\eastAsiaFix.exe
+C:\Users\mooret\AppData\Local\Temporary Projects\eastAsiaFix\obj\Debug\eastAsiaFix.pdb
+C:\vsProjects\eastAsiaFix\eastAsiaFix\bin\Debug\eastAsiaFix.exe.config
+C:\vsProjects\eastAsiaFix\eastAsiaFix\obj\Debug\eastAsiaFix.exe
+C:\vsProjects\eastAsiaFix\eastAsiaFix\obj\Debug\eastAsiaFix.pdb
+C:\vsProjects\eastAsiaFix\eastAsiaFix\bin\Debug\eastAsiaFix.exe
+C:\vsProjects\eastAsiaFix\eastAsiaFix\bin\Debug\eastAsiaFix.pdb
+C:\vsProjects\eastAsiaFix\eastAsiaFix\obj\Debug\eastAsiaFix.csprojResolveAssemblyReference.cache

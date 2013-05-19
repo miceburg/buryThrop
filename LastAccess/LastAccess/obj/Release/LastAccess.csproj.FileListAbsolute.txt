@@ -1,0 +1,10 @@
+C:\Users\tmoore82\Documents\Visual Studio 2012\Projects\Pillsbury\KI\LastAccess\LastAccess\obj\Release\LastAccess.Form1.resources
+C:\Users\tmoore82\Documents\Visual Studio 2012\Projects\Pillsbury\KI\LastAccess\LastAccess\obj\Release\LastAccess.Properties.Resources.resources
+C:\Users\tmoore82\Documents\Visual Studio 2012\Projects\Pillsbury\KI\LastAccess\LastAccess\obj\Release\LastAccess.csproj.GenerateResource.Cache
+C:\Users\tmoore82\Documents\Visual Studio 2012\Projects\Pillsbury\KI\LastAccess\LastAccess\bin\Release\LastAccess.exe
+C:\Users\tmoore82\Documents\Visual Studio 2012\Projects\Pillsbury\KI\LastAccess\LastAccess\bin\Release\LastAccess.pdb
+C:\Users\tmoore82\Documents\Visual Studio 2012\Projects\Pillsbury\KI\LastAccess\LastAccess\obj\Release\LastAccess.csprojResolveAssemblyReference.cache
+C:\Users\tmoore82\Documents\Visual Studio 2012\Projects\Pillsbury\KI\LastAccess\LastAccess\obj\Release\LastAccess.exe
+C:\Users\tmoore82\Documents\Visual Studio 2012\Projects\Pillsbury\KI\LastAccess\LastAccess\obj\Release\LastAccess.pdb
+C:\Users\tmoore82\Documents\GitHub\buryThrop\LastAccess\LastAccess\obj\Release\LastAccess.exe
+C:\Users\tmoore82\Documents\GitHub\buryThrop\LastAccess\LastAccess\obj\Release\LastAccess.pdb

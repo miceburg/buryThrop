@@ -1,0 +1,15 @@
+C:\vsProjects\BinaryCopy\BinaryReader\bin\Debug\BinaryReader.exe
+C:\vsProjects\BinaryCopy\BinaryReader\bin\Debug\BinaryReader.pdb
+C:\vsProjects\BinaryCopy\BinaryReader\obj\Debug\BinaryReader.Form1.resources
+C:\vsProjects\BinaryCopy\BinaryReader\obj\Debug\BinaryReader.Properties.Resources.resources
+C:\vsProjects\BinaryCopy\BinaryReader\obj\Debug\BinaryCopy.csproj.GenerateResource.Cache
+C:\vsProjects\BinaryCopy\BinaryReader\obj\Debug\BinaryReader.exe
+C:\vsProjects\BinaryCopy\BinaryReader\obj\Debug\BinaryReader.pdb
+C:\Users\tmoore82\Documents\Visual Studio 2012\Projects\Pillsbury\BinaryCopy\BinaryCopy\bin\Debug\BinaryCopy.exe
+C:\Users\tmoore82\Documents\Visual Studio 2012\Projects\Pillsbury\BinaryCopy\BinaryCopy\bin\Debug\BinaryCopy.pdb
+C:\Users\tmoore82\Documents\Visual Studio 2012\Projects\Pillsbury\BinaryCopy\BinaryCopy\obj\Debug\BinaryCopy.csprojResolveAssemblyReference.cache
+C:\Users\tmoore82\Documents\Visual Studio 2012\Projects\Pillsbury\BinaryCopy\BinaryCopy\obj\Debug\BinaryCopy.Form1.resources
+C:\Users\tmoore82\Documents\Visual Studio 2012\Projects\Pillsbury\BinaryCopy\BinaryCopy\obj\Debug\BinaryCopy.Properties.Resources.resources
+C:\Users\tmoore82\Documents\Visual Studio 2012\Projects\Pillsbury\BinaryCopy\BinaryCopy\obj\Debug\BinaryCopy.csproj.GenerateResource.Cache
+C:\Users\tmoore82\Documents\Visual Studio 2012\Projects\Pillsbury\BinaryCopy\BinaryCopy\obj\Debug\BinaryCopy.exe
+C:\Users\tmoore82\Documents\Visual Studio 2012\Projects\Pillsbury\BinaryCopy\BinaryCopy\obj\Debug\BinaryCopy.pdb

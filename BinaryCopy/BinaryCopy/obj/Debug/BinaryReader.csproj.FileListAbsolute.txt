@@ -1,0 +1,24 @@
+C:\Users\mooret\AppData\Local\Temporary Projects\BinaryReader\bin\Debug\BinaryReader.exe
+C:\Users\mooret\AppData\Local\Temporary Projects\BinaryReader\bin\Debug\BinaryReader.pdb
+C:\Users\mooret\AppData\Local\Temporary Projects\BinaryReader\obj\Debug\BinaryReader.csprojResolveAssemblyReference.cache
+C:\Users\mooret\AppData\Local\Temporary Projects\BinaryReader\obj\Debug\BinaryReader.Form1.resources
+C:\Users\mooret\AppData\Local\Temporary Projects\BinaryReader\obj\Debug\BinaryReader.Properties.Resources.resources
+C:\Users\mooret\AppData\Local\Temporary Projects\BinaryReader\obj\Debug\BinaryReader.csproj.GenerateResource.Cache
+C:\Users\mooret\AppData\Local\Temporary Projects\BinaryReader\obj\Debug\BinaryReader.exe
+C:\Users\mooret\AppData\Local\Temporary Projects\BinaryReader\obj\Debug\BinaryReader.pdb
+\\dw2nas01\dcpublic\users\mooret\Visual Studio 2012\Projects\BinaryReader\BinaryReader\obj\Debug\BinaryReader.exe
+\\dw2nas01\dcpublic\users\mooret\Visual Studio 2012\Projects\BinaryReader\BinaryReader\obj\Debug\BinaryReader.pdb
+\\dw2nas01\dcpublic\users\mooret\Visual Studio 2012\Projects\BinaryReader\BinaryReader\bin\Debug\BinaryReader.exe
+\\dw2nas01\dcpublic\users\mooret\Visual Studio 2012\Projects\BinaryReader\BinaryReader\bin\Debug\BinaryReader.pdb
+\\dw2nas01\dcpublic\users\mooret\Visual Studio 2012\Projects\BinaryReader\BinaryReader\obj\Debug\BinaryReader.csprojResolveAssemblyReference.cache
+\\dw2nas01\dcpublic\users\mooret\Visual Studio 2012\Projects\BinaryReader\BinaryReader\obj\Debug\BinaryReader.Form1.resources
+\\dw2nas01\dcpublic\users\mooret\Visual Studio 2012\Projects\BinaryReader\BinaryReader\obj\Debug\BinaryReader.Properties.Resources.resources
+\\dw2nas01\dcpublic\users\mooret\Visual Studio 2012\Projects\BinaryReader\BinaryReader\obj\Debug\BinaryReader.csproj.GenerateResource.Cache
+C:\vsProjects\BinaryCopy\BinaryReader\obj\Debug\BinaryReader.exe
+C:\vsProjects\BinaryCopy\BinaryReader\obj\Debug\BinaryReader.pdb
+C:\vsProjects\BinaryCopy\BinaryReader\bin\Debug\BinaryReader.exe
+C:\vsProjects\BinaryCopy\BinaryReader\bin\Debug\BinaryReader.pdb
+C:\vsProjects\BinaryCopy\BinaryReader\obj\Debug\BinaryReader.csprojResolveAssemblyReference.cache
+C:\vsProjects\BinaryCopy\BinaryReader\obj\Debug\BinaryReader.Form1.resources
+C:\vsProjects\BinaryCopy\BinaryReader\obj\Debug\BinaryReader.Properties.Resources.resources
+C:\vsProjects\BinaryCopy\BinaryReader\obj\Debug\BinaryReader.csproj.GenerateResource.Cache

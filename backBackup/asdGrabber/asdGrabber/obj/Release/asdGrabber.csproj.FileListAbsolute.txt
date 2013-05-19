@@ -1,0 +1,10 @@
+\\dw2nas01\dcpublic\users\mooret\Visual Studio 2012\Projects\asdGrabber\asdGrabber\bin\Release\asdGrabber.exe
+\\dw2nas01\dcpublic\users\mooret\Visual Studio 2012\Projects\asdGrabber\asdGrabber\bin\Release\asdGrabber.pdb
+\\dw2nas01\dcpublic\users\mooret\Visual Studio 2012\Projects\asdGrabber\asdGrabber\obj\Release\asdGrabber.exe
+\\dw2nas01\dcpublic\users\mooret\Visual Studio 2012\Projects\asdGrabber\asdGrabber\obj\Release\asdGrabber.pdb
+\\dw2nas01\dcpublic\users\mooret\Visual Studio 2012\Projects\asdGrabber\asdGrabber\obj\Release\asdGrabber.csprojResolveAssemblyReference.cache
+C:\vsProjects\asdGrabber\asdGrabber\obj\Release\asdGrabber.exe
+C:\vsProjects\asdGrabber\asdGrabber\obj\Release\asdGrabber.pdb
+C:\vsProjects\asdGrabber\asdGrabber\bin\Release\asdGrabber.exe
+C:\vsProjects\asdGrabber\asdGrabber\bin\Release\asdGrabber.pdb
+C:\vsProjects\asdGrabber\asdGrabber\obj\Release\asdGrabber.csprojResolveAssemblyReference.cache

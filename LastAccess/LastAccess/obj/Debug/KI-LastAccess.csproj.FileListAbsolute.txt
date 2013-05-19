@@ -1,0 +1,8 @@
+\\dw2nas01\dcpublic\users\mooret\Visual Studio 2012\Projects\KI-LastAccess\KI-LastAccess\bin\Debug\KI-LastAccess.exe
+\\dw2nas01\dcpublic\users\mooret\Visual Studio 2012\Projects\KI-LastAccess\KI-LastAccess\bin\Debug\KI-LastAccess.pdb
+\\dw2nas01\dcpublic\users\mooret\Visual Studio 2012\Projects\KI-LastAccess\KI-LastAccess\obj\Debug\KI-LastAccess.csprojResolveAssemblyReference.cache
+\\dw2nas01\dcpublic\users\mooret\Visual Studio 2012\Projects\KI-LastAccess\KI-LastAccess\obj\Debug\KI_LastAccess.Form1.resources
+\\dw2nas01\dcpublic\users\mooret\Visual Studio 2012\Projects\KI-LastAccess\KI-LastAccess\obj\Debug\KI_LastAccess.Properties.Resources.resources
+\\dw2nas01\dcpublic\users\mooret\Visual Studio 2012\Projects\KI-LastAccess\KI-LastAccess\obj\Debug\KI-LastAccess.csproj.GenerateResource.Cache
+\\dw2nas01\dcpublic\users\mooret\Visual Studio 2012\Projects\KI-LastAccess\KI-LastAccess\obj\Debug\KI-LastAccess.exe
+\\dw2nas01\dcpublic\users\mooret\Visual Studio 2012\Projects\KI-LastAccess\KI-LastAccess\obj\Debug\KI-LastAccess.pdb

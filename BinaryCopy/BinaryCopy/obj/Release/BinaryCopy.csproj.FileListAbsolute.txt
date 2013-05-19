@@ -1,0 +1,7 @@
+C:\Users\tmoore82\Documents\Visual Studio 2012\Projects\Pillsbury\BinaryCopy\BinaryCopy\bin\Release\BinaryCopy.exe
+C:\Users\tmoore82\Documents\Visual Studio 2012\Projects\Pillsbury\BinaryCopy\BinaryCopy\bin\Release\BinaryCopy.pdb
+C:\Users\tmoore82\Documents\Visual Studio 2012\Projects\Pillsbury\BinaryCopy\BinaryCopy\obj\Release\BinaryCopy.Form1.resources
+C:\Users\tmoore82\Documents\Visual Studio 2012\Projects\Pillsbury\BinaryCopy\BinaryCopy\obj\Release\BinaryCopy.Properties.Resources.resources
+C:\Users\tmoore82\Documents\Visual Studio 2012\Projects\Pillsbury\BinaryCopy\BinaryCopy\obj\Release\BinaryCopy.csproj.GenerateResource.Cache
+C:\Users\tmoore82\Documents\Visual Studio 2012\Projects\Pillsbury\BinaryCopy\BinaryCopy\obj\Release\BinaryCopy.exe
+C:\Users\tmoore82\Documents\Visual Studio 2012\Projects\Pillsbury\BinaryCopy\BinaryCopy\obj\Release\BinaryCopy.pdb

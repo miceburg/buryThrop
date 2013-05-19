@@ -1,0 +1,15 @@
+C:\Users\mooret\AppData\Local\Temporary Projects\CP_Reg_RC\bin\Debug\CP_Reg_RC.exe.config
+C:\Users\mooret\AppData\Local\Temporary Projects\CP_Reg_RC\bin\Debug\CP_Reg_RC.exe
+C:\Users\mooret\AppData\Local\Temporary Projects\CP_Reg_RC\bin\Debug\CP_Reg_RC.pdb
+C:\Users\mooret\AppData\Local\Temporary Projects\CP_Reg_RC\obj\Debug\CP_Reg_RC.csprojResolveAssemblyReference.cache
+C:\Users\mooret\AppData\Local\Temporary Projects\CP_Reg_RC\obj\Debug\CP_Reg_RC.exe
+C:\Users\mooret\AppData\Local\Temporary Projects\CP_Reg_RC\obj\Debug\CP_Reg_RC.pdb
+C:\vsProjects\CP_Reg_RC\CP_Reg_RC\bin\Debug\CP_Reg_RC.exe.config
+C:\vsProjects\CP_Reg_RC\CP_Reg_RC\obj\Debug\CP_Reg_RC.exe
+C:\vsProjects\CP_Reg_RC\CP_Reg_RC\obj\Debug\CP_Reg_RC.pdb
+C:\vsProjects\CP_Reg_RC\CP_Reg_RC\bin\Debug\CP_Reg_RC.exe
+C:\vsProjects\CP_Reg_RC\CP_Reg_RC\bin\Debug\CP_Reg_RC.pdb
+C:\vsProjects\CP_Reg_RC\CP_Reg_RC\obj\Debug\CP_Reg_RC.csprojResolveAssemblyReference.cache
+C:\Users\tmoore82\Documents\Visual Studio 2012\Projects\Pillsbury\CP_Reg_RC\CP_Reg_RC\bin\Debug\CP_Reg_RC.exe.config
+C:\Users\tmoore82\Documents\Visual Studio 2012\Projects\Pillsbury\CP_Reg_RC\CP_Reg_RC\obj\Debug\CP_Reg_RC.exe
+C:\Users\tmoore82\Documents\Visual Studio 2012\Projects\Pillsbury\CP_Reg_RC\CP_Reg_RC\obj\Debug\CP_Reg_RC.pdb

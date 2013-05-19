@@ -1,0 +1,19 @@
+C:\Users\mooret\AppData\Local\Temporary Projects\kiDeploy\bin\Debug\kiDeploy.exe.config
+C:\Users\mooret\AppData\Local\Temporary Projects\kiDeploy\bin\Debug\kiDeploy.exe
+C:\Users\mooret\AppData\Local\Temporary Projects\kiDeploy\bin\Debug\kiDeploy.pdb
+C:\Users\mooret\AppData\Local\Temporary Projects\kiDeploy\obj\Debug\kiDeploy.csprojResolveAssemblyReference.cache
+C:\Users\mooret\AppData\Local\Temporary Projects\kiDeploy\obj\Debug\kiDeploy.Form1.resources
+C:\Users\mooret\AppData\Local\Temporary Projects\kiDeploy\obj\Debug\kiDeploy.Properties.Resources.resources
+C:\Users\mooret\AppData\Local\Temporary Projects\kiDeploy\obj\Debug\kiDeploy.csproj.GenerateResource.Cache
+C:\Users\mooret\AppData\Local\Temporary Projects\kiDeploy\obj\Debug\kiDeploy.exe
+C:\Users\mooret\AppData\Local\Temporary Projects\kiDeploy\obj\Debug\kiDeploy.pdb
+C:\vsProjects\kiDeploy\kiDeploy\bin\Debug\kiDeploy.exe.config
+C:\vsProjects\kiDeploy\kiDeploy\obj\Debug\kiDeploy.exe
+C:\vsProjects\kiDeploy\kiDeploy\obj\Debug\kiDeploy.pdb
+C:\vsProjects\kiDeploy\kiDeploy\bin\Debug\kiDeploy.exe
+C:\vsProjects\kiDeploy\kiDeploy\bin\Debug\kiDeploy.pdb
+C:\vsProjects\kiDeploy\kiDeploy\obj\Debug\kiDeploy.csprojResolveAssemblyReference.cache
+C:\vsProjects\kiDeploy\kiDeploy\obj\Debug\kiDeploy.Form1.resources
+C:\vsProjects\kiDeploy\kiDeploy\obj\Debug\kiDeploy.Properties.Resources.resources
+C:\vsProjects\kiDeploy\kiDeploy\obj\Debug\kiDeploy.csproj.GenerateResource.Cache
+C:\vsProjects\kiDeploy\kiDeploy\obj\Debug\kiDeploy.Config.resources

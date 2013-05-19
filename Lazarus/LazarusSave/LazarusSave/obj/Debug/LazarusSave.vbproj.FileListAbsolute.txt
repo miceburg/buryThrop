@@ -1,0 +1,17 @@
+\\dw2nas01\dcpublic\users\mooret\Visual Studio 2012\Projects\LazarusSave\LazarusSave\bin\Debug\LazarusSave.exe.config
+\\dw2nas01\dcpublic\users\mooret\Visual Studio 2012\Projects\LazarusSave\LazarusSave\obj\Debug\Interop.SHDocVw.dll
+\\dw2nas01\dcpublic\users\mooret\Visual Studio 2012\Projects\LazarusSave\LazarusSave\obj\Debug\LazarusSave.vbproj.ResolveComReference.cache
+\\dw2nas01\dcpublic\users\mooret\Visual Studio 2012\Projects\LazarusSave\LazarusSave\obj\Debug\LazarusSave.exe
+\\dw2nas01\dcpublic\users\mooret\Visual Studio 2012\Projects\LazarusSave\LazarusSave\obj\Debug\LazarusSave.xml
+\\dw2nas01\dcpublic\users\mooret\Visual Studio 2012\Projects\LazarusSave\LazarusSave\obj\Debug\LazarusSave.pdb
+\\dw2nas01\dcpublic\users\mooret\Visual Studio 2012\Projects\LazarusSave\LazarusSave\bin\Debug\LazarusSave.exe
+\\dw2nas01\dcpublic\users\mooret\Visual Studio 2012\Projects\LazarusSave\LazarusSave\bin\Debug\LazarusSave.pdb
+\\dw2nas01\dcpublic\users\mooret\Visual Studio 2012\Projects\LazarusSave\LazarusSave\bin\Debug\LazarusSave.xml
+\\dw2nas01\dcpublic\users\mooret\Visual Studio 2012\Projects\LazarusSave\LazarusSave\obj\Debug\ConsoleApplication1.Resources.resources
+\\dw2nas01\dcpublic\users\mooret\Visual Studio 2012\Projects\LazarusSave\LazarusSave\obj\Debug\LazarusSave.vbproj.GenerateResource.Cache
+C:\Users\tmoore82\Documents\Visual Studio 2012\Projects\Pillsbury\Lazarus\LazarusSave\LazarusSave\bin\Debug\LazarusSave.exe.config
+C:\Users\tmoore82\Documents\Visual Studio 2012\Projects\Pillsbury\Lazarus\LazarusSave\LazarusSave\obj\Debug\Interop.SHDocVw.dll
+C:\Users\tmoore82\Documents\Visual Studio 2012\Projects\Pillsbury\Lazarus\LazarusSave\LazarusSave\obj\Debug\LazarusSave.vbproj.ResolveComReference.cache
+C:\Users\tmoore82\Documents\Visual Studio 2012\Projects\Pillsbury\Lazarus\LazarusSave\LazarusSave\obj\Debug\LazarusSave.exe
+C:\Users\tmoore82\Documents\Visual Studio 2012\Projects\Pillsbury\Lazarus\LazarusSave\LazarusSave\obj\Debug\LazarusSave.xml
+C:\Users\tmoore82\Documents\Visual Studio 2012\Projects\Pillsbury\Lazarus\LazarusSave\LazarusSave\obj\Debug\LazarusSave.pdb

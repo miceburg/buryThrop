@@ -1,0 +1,12 @@
+C:\vsProjects\kiDeploy\kiDeploy\bin\Release\kiDeploy.exe.config
+C:\vsProjects\kiDeploy\kiDeploy\bin\Release\kiDeploy.exe
+C:\vsProjects\kiDeploy\kiDeploy\bin\Release\kiDeploy.pdb
+C:\vsProjects\kiDeploy\kiDeploy\obj\Release\kiDeploy.Config.resources
+C:\vsProjects\kiDeploy\kiDeploy\obj\Release\kiDeploy.Form1.resources
+C:\vsProjects\kiDeploy\kiDeploy\obj\Release\kiDeploy.Properties.Resources.resources
+C:\vsProjects\kiDeploy\kiDeploy\obj\Release\kiDeploy.csproj.GenerateResource.Cache
+C:\vsProjects\kiDeploy\kiDeploy\obj\Release\kiDeploy.exe
+C:\vsProjects\kiDeploy\kiDeploy\obj\Release\kiDeploy.pdb
+C:\Users\tmoore82\Documents\Visual Studio 2012\Projects\Pillsbury\KI\kiDeploy\kiDeploy\bin\Release\kiDeploy.exe.config
+C:\Users\tmoore82\Documents\Visual Studio 2012\Projects\Pillsbury\KI\kiDeploy\kiDeploy\obj\Release\kiDeploy.exe
+C:\Users\tmoore82\Documents\Visual Studio 2012\Projects\Pillsbury\KI\kiDeploy\kiDeploy\obj\Release\kiDeploy.pdb
