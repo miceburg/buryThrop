@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Configuration;
 using System.Diagnostics;
 using System.IO;
 using System.Linq;
@@ -12,33 +13,33 @@ namespace listReplicated
     {
         public void PopLV()
         {
-            string csvA = @"[csv of source files]";
-            string csvB = @"[csv of local files]";
+            string netCSV = ConfigurationManager.AppSettings.Get("netCSV");
+            string locCSV = ConfigurationManager.AppSettings.Get("locCSV");
 
-            CheckExists(csvA);
-            CheckExists(csvB);
+            CheckExists(netCSV);
+            CheckExists(locCSV);
 
-            using (FileStream fs = File.Create(csvA))
+            using (FileStream fs = File.Create(netCSV))
             { 
             
             }
-            using (FileStream fs = File.Create(csvB))
+            using (FileStream fs = File.Create(locCSV))
             { 
             
             }
 
-            string sourcePathA = @"[location of source]";
-            string sourcePathB = @"[location of replicated files]";
+            string netFiles = ConfigurationManager.AppSettings.Get("netFiles");
+            string locFiles = ConfigurationManager.AppSettings.Get("locFiles");
             string fileName;
             string fileExtension;
             string[] listItems = new string[3];
             DateTime dt;
 
-            foreach (var NetworkFile in Directory.GetFiles(sourcePathA))
+            foreach (var NetworkFile in Directory.GetFiles(netFiles))
             {
                 fileName = Path.GetFileName(NetworkFile).ToString();
                 fileExtension = Path.GetExtension(NetworkFile).ToString();
-                dt = File.GetLastAccessTime(sourcePathA + @"\" + fileName);
+                dt = File.GetLastAccessTime(netFiles + @"\" + fileName);
                 listItems[0] = fileName;
                 listItems[1] = fileExtension;
                 listItems[2] = dt.ToString("yyyy/MM/dd HH:mm:ss");
@@ -47,7 +48,7 @@ namespace listReplicated
 
                 Form1.mF.listView1.Items.Add(lvi);
 
-                using (StreamWriter sw = File.AppendText(csvA))
+                using (StreamWriter sw = File.AppendText(netCSV))
                 {
                     sw.WriteLine(listItems[0] + "," + listItems[2]);
                 }
@@ -56,10 +57,10 @@ namespace listReplicated
 
             listItems = new string[2];
 
-            foreach (var LocalFile in Directory.GetFiles(sourcePathB))
+            foreach (var LocalFile in Directory.GetFiles(locFiles))
             {
                 fileName = Path.GetFileName(LocalFile).ToString();
-                dt = File.GetLastAccessTime(sourcePathB + @"\" + fileName);
+                dt = File.GetLastAccessTime(locFiles + @"\" + fileName);
 
                 listItems[0] = fileName;
                 listItems[1] = dt.ToString("yyyy/MM/dd HH:mm:ss");
@@ -68,7 +69,7 @@ namespace listReplicated
 
                 Form1.mF.listView2.Items.Add(lvi);
 
-                using (StreamWriter sw = File.AppendText(csvB))
+                using (StreamWriter sw = File.AppendText(locCSV))
                 {
                     sw.WriteLine(listItems[0] + "," + listItems[1]);
                 }

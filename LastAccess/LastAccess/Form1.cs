@@ -19,5 +19,11 @@ namespace LastAccess
             mF = this;
             LastAccess.ChkAccessDates();
         }
+
+        private void configurationToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Config config = new Config();
+            config.Show();
+        }
     }
 }

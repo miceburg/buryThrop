@@ -64,8 +64,6 @@ namespace listReplicated
             listView1.Items.Clear();
             listView2.Items.Clear();
             LV.PopLV();
-            //listView1.Refresh();
-            //listView2.Refresh();
         }
     }
 }

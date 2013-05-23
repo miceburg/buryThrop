@@ -24,9 +24,6 @@ eastAsiaFix
 LastAccess
 	- Need to clear out unused/forgotten templates
 	- Used to test whether or not we could learn which templates users currently rely on.
-	
-	- Suggested enhancements
-		- needs config file
 
 Lazarus
 	- Some users ignore all prompts to save their work before a forced reboot (security updates). Lazarus can be called before and after reboot to save all the Office files currently open, then open them again after reboot. This avoids lost work, ensures that things are saved to the DMS when appropriate.
@@ -34,9 +31,6 @@ Lazarus
 listReplicated
 	- Need to check that all the network templates are properly replicated to user's computer
 	- Creates a comparison of the two directories
-	
-	- Suggested enhancements
-		- needs config file
 
 templateDeploy
 	- Frequent need to update firmwide templates

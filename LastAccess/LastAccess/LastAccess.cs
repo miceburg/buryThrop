@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Configuration;
 using System.IO;
 using System.Linq;
 using System.Text;
@@ -9,41 +10,37 @@ namespace LastAccess
 {
     public class LastAccess
     {
-            public static void ChkAccessDates()
+        public static void ChkAccessDates()
+        {
+            string fileName;
+            string[] listItems = new string[3];
+            DateTime dt;
+
+            string netFiles = ConfigurationManager.AppSettings.Get("netFiles"); 
+            string locFiles = ConfigurationManager.AppSettings.Get("locFies");
+
+            foreach (var NetworkFile in Directory.GetFiles(netFiles))
             {
-                string fileName;
-                string[] listItems = new string[3];
-                DateTime dt;
+                fileName = Path.GetFileName(NetworkFile).ToString();
+                dt = File.GetLastAccessTime(netFiles);
+                listItems[0] = fileName;
+                listItems[1] = dt.ToString();
 
-                string sourcePathA = @"[location of source files]"; 
-                string sourcePathB = @"[location of local files]";
+                Form1.mF.listView1.Items.Add(lvi);   
+            }
 
-                foreach (var NetworkFile in Directory.GetFiles(sourcePathA))
+            foreach (var LocalFile in Directory.GetFiles(locFiles))
+            {
+                for (int i = 0; i < Form1.mF.listView1.Items.Count; i++)
                 {
-                    fileName = Path.GetFileName(NetworkFile).ToString();
-                    dt = File.GetLastAccessTime(sourcePathA);
-                    listItems[0] = fileName;
-                    listItems[1] = dt.ToString();
-
-                    dt = File.GetLastAccessTime(sourcePathB);
-
-                    listItems[2] = dt.ToString();
-
-                    ListViewItem lvi = new ListViewItem(listItems);
-
-                    Form1.mF.listView1.Items.Add(lvi);   
+                    if (Form1.mF.listView1.Items[i].SubItems[0].Text == LocalFile)
+                    {
+                        dt = File.GetLastAccessTime(LocalFile);
+                        Form1.mF.listView1.Items[i].SubItems[2].Text == dt.ToString();
+                        break;
+                    }
                 }
-
-                int n = 0;
-
-                foreach (var LocalFile in Directory.GetFiles(sourcePathB))
-                {
-                    dt = File.GetLastAccessTime(sourcePathB);
-                    Form1.mF.listView1.Items[n].SubItems.Add(dt.ToString());
-                    n++;
-                }
+            }
         }
-
-
     }
 }
