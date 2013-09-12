@@ -34,6 +34,11 @@
             this.textBox2 = new System.Windows.Forms.TextBox();
             this.button1 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
+            this.rbNetwork = new System.Windows.Forms.RadioButton();
+            this.rbLocal = new System.Windows.Forms.RadioButton();
+            this.rbBoth = new System.Windows.Forms.RadioButton();
+            this.textBox3 = new System.Windows.Forms.TextBox();
+            this.label3 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // label1
@@ -70,7 +75,7 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(369, 80);
+            this.button1.Location = new System.Drawing.Point(369, 171);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(75, 23);
             this.button1.TabIndex = 4;
@@ -80,7 +85,7 @@
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(450, 80);
+            this.button2.Location = new System.Drawing.Point(450, 171);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(75, 23);
             this.button2.TabIndex = 5;
@@ -88,11 +93,65 @@
             this.button2.UseVisualStyleBackColor = true;
             this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
+            // rbNetwork
+            // 
+            this.rbNetwork.AutoSize = true;
+            this.rbNetwork.Location = new System.Drawing.Point(146, 121);
+            this.rbNetwork.Name = "rbNetwork";
+            this.rbNetwork.Size = new System.Drawing.Size(65, 17);
+            this.rbNetwork.TabIndex = 6;
+            this.rbNetwork.TabStop = true;
+            this.rbNetwork.Text = "Network";
+            this.rbNetwork.UseVisualStyleBackColor = true;
+            // 
+            // rbLocal
+            // 
+            this.rbLocal.AutoSize = true;
+            this.rbLocal.Location = new System.Drawing.Point(217, 121);
+            this.rbLocal.Name = "rbLocal";
+            this.rbLocal.Size = new System.Drawing.Size(51, 17);
+            this.rbLocal.TabIndex = 7;
+            this.rbLocal.TabStop = true;
+            this.rbLocal.Text = "Local";
+            this.rbLocal.UseVisualStyleBackColor = true;
+            // 
+            // rbBoth
+            // 
+            this.rbBoth.AutoSize = true;
+            this.rbBoth.Location = new System.Drawing.Point(274, 121);
+            this.rbBoth.Name = "rbBoth";
+            this.rbBoth.Size = new System.Drawing.Size(47, 17);
+            this.rbBoth.TabIndex = 8;
+            this.rbBoth.TabStop = true;
+            this.rbBoth.Text = "Both";
+            this.rbBoth.UseVisualStyleBackColor = true;
+            // 
+            // textBox3
+            // 
+            this.textBox3.Location = new System.Drawing.Point(146, 76);
+            this.textBox3.Name = "textBox3";
+            this.textBox3.Size = new System.Drawing.Size(379, 20);
+            this.textBox3.TabIndex = 9;
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Location = new System.Drawing.Point(15, 80);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(125, 13);
+            this.label3.TabIndex = 10;
+            this.label3.Text = "Extensions to Search For";
+            // 
             // Config
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(537, 112);
+            this.ClientSize = new System.Drawing.Size(537, 206);
+            this.Controls.Add(this.label3);
+            this.Controls.Add(this.textBox3);
+            this.Controls.Add(this.rbBoth);
+            this.Controls.Add(this.rbLocal);
+            this.Controls.Add(this.rbNetwork);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.textBox2);
@@ -115,5 +174,10 @@
         private System.Windows.Forms.TextBox textBox2;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.RadioButton rbNetwork;
+        private System.Windows.Forms.RadioButton rbLocal;
+        private System.Windows.Forms.RadioButton rbBoth;
+        private System.Windows.Forms.TextBox textBox3;
+        private System.Windows.Forms.Label label3;
     }
 }

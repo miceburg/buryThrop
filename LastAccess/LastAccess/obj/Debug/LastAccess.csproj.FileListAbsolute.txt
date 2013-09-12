@@ -6,3 +6,16 @@ C:\Users\tmoore82\Documents\Visual Studio 2012\Projects\Pillsbury\KI\LastAccess\
 C:\Users\tmoore82\Documents\Visual Studio 2012\Projects\Pillsbury\KI\LastAccess\LastAccess\bin\Debug\LastAccess.pdb
 C:\Users\tmoore82\Documents\Visual Studio 2012\Projects\Pillsbury\KI\LastAccess\LastAccess\obj\Debug\LastAccess.exe
 C:\Users\tmoore82\Documents\Visual Studio 2012\Projects\Pillsbury\KI\LastAccess\LastAccess\obj\Debug\LastAccess.pdb
+C:\Users\tmoore\Documents\GitHub\buryThrop\LastAccess\LastAccess\bin\Debug\LastAccess.exe.config
+C:\Users\tmoore\Documents\GitHub\buryThrop\LastAccess\LastAccess\obj\Debug\LastAccess.exe
+C:\Users\tmoore\Documents\GitHub\buryThrop\LastAccess\LastAccess\obj\Debug\LastAccess.pdb
+C:\Users\tmoore\Documents\GitHub\buryThrop\LastAccess\LastAccess\bin\Debug\LastAccess.exe
+C:\Users\tmoore\Documents\GitHub\buryThrop\LastAccess\LastAccess\bin\Debug\LastAccess.pdb
+C:\Users\tmoore\Documents\GitHub\buryThrop\LastAccess\LastAccess\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\tmoore\Documents\GitHub\buryThrop\LastAccess\LastAccess\obj\Debug\LastAccess.Config.resources
+C:\Users\tmoore\Documents\GitHub\buryThrop\LastAccess\LastAccess\obj\Debug\LastAccess.Properties.Resources.resources
+C:\Users\tmoore\Documents\GitHub\buryThrop\LastAccess\LastAccess\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\tmoore\Documents\GitHub\buryThrop\LastAccess\LastAccess\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\tmoore\Documents\GitHub\buryThrop\LastAccess\LastAccess\bin\Debug\Office.BP.dll
+C:\Users\tmoore\Documents\GitHub\buryThrop\LastAccess\LastAccess\bin\Debug\Office.BP.pdb
+C:\Users\tmoore\Documents\GitHub\buryThrop\LastAccess\LastAccess\obj\Debug\LastAccess.LastAccessForm.resources

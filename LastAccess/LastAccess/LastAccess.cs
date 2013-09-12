@@ -10,36 +10,64 @@ namespace LastAccess
 {
     public class LastAccess
     {
+        private  static string netFiles = ConfigurationManager.AppSettings.Get("netFiles");
+        private static string locFiles = ConfigurationManager.AppSettings.Get("locFies");
+        private static string strWhichFiles = ConfigurationManager.AppSettings.Get("whichFiles");
+        private static string extensions = ConfigurationManager.AppSettings.Get("extensions");
+        private static string[] listItems = new string[3];
+
         public static void ChkAccessDates()
         {
-            string fileName;
-            string[] listItems = new string[3];
-            DateTime dt;
-
-            string netFiles = ConfigurationManager.AppSettings.Get("netFiles"); 
-            string locFiles = ConfigurationManager.AppSettings.Get("locFies");
-
-            foreach (var NetworkFile in Directory.GetFiles(netFiles))
+            try
             {
-                fileName = Path.GetFileName(NetworkFile).ToString();
-                dt = File.GetLastAccessTime(netFiles);
-                listItems[0] = fileName;
-                listItems[1] = dt.ToString();
+                switch (strWhichFiles)
+                {
+                    case "rbNetwork":
+                        networkFiles();
+                        break;
+                    case "rbLocal":
+                        localFiles();
+                        break;
+                    case "rbBoth":
+                        networkFiles();
+                        localFiles();
+                        break;
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Error: " + ex.ToString(), "LastAccess: Error");
+            }
+        }
 
-                Form1.mF.listView1.Items.Add(lvi);   
+        private static void networkFiles()
+        {
+            foreach (var NetworkFile in Directory.GetFiles(netFiles, extensions, SearchOption.AllDirectories))
+            {
+                listItems[0] = Path.GetFileName(NetworkFile).ToString();
+                listItems[1] = File.GetLastAccessTime(NetworkFile).ToString();
+                listItems[2] = "Network";
+                listItems[3] = Path.GetFullPath(NetworkFile);
+
+                ListViewItem lvi = new ListViewItem(listItems);
+
+                LastAccessForm.mF.listView1.Items.Add(lvi);
             }
 
-            foreach (var LocalFile in Directory.GetFiles(locFiles))
+        }
+
+        private static void localFiles()
+        {
+            foreach (var LocalFile in Directory.GetFiles(locFiles, extensions, SearchOption.AllDirectories))
             {
-                for (int i = 0; i < Form1.mF.listView1.Items.Count; i++)
-                {
-                    if (Form1.mF.listView1.Items[i].SubItems[0].Text == LocalFile)
-                    {
-                        dt = File.GetLastAccessTime(LocalFile);
-                        Form1.mF.listView1.Items[i].SubItems[2].Text == dt.ToString();
-                        break;
-                    }
-                }
+                listItems[0] = Path.GetFileName(LocalFile).ToString();
+                listItems[1] = File.GetLastAccessTime(LocalFile).ToString();
+                listItems[2] = "Local";
+                listItems[3] = Path.GetFullPath(LocalFile);
+
+                ListViewItem lvi = new ListViewItem(listItems);
+
+                LastAccessForm.mF.listView1.Items.Add(lvi);
             }
         }
     }
