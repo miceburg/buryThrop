@@ -24,9 +24,10 @@ namespace LastAccess
 
         private void Config_Load(object sender, EventArgs e)
         {
-            textBox1.Text = ConfigurationManager.AppSettings.Get("netFiles");
-            textBox2.Text = ConfigurationManager.AppSettings.Get("locFiles");
-            textBox3.Text = ConfigurationManager.AppSettings.Get("extensions");
+            tbNetFiles.Text = ConfigurationManager.AppSettings.Get("netFiles");
+            tbLocFiles.Text = ConfigurationManager.AppSettings.Get("locFiles");
+            tbExt.Text = ConfigurationManager.AppSettings.Get("extensions");
+            tbCopyDest.Text = ConfigurationManager.AppSettings.Get("copyDest");
 
             string strWhichFiles = ConfigurationManager.AppSettings.Get("whichFiles");
 
@@ -46,11 +47,27 @@ namespace LastAccess
 
         private void button1_Click(object sender, EventArgs e)
         {
+            if (tbNetFiles.Text.Length < 1 && tbLocFiles.Text.Length < 1)
+            {
+                MessageBox.Show("No file sources chosen.", "LastAccess: No Files");
+                return;
+            }
+            else if (tbNetFiles.Text.Length < 1 && tbLocFiles.Text.Length >=1)
+            {
+                rbLocal.Checked = true;
+            }
+            else if (tbNetFiles.Text.Length >= 1 && tbLocFiles.Text.Length < 1)
+            {
+                rbNetwork.Checked = true;
+            }
+
             string strWhichFiles = this.Controls.OfType<RadioButton>().FirstOrDefault(r => r.Checked).Name.ToString();
 
             Configuration configuration = ConfigurationManager.OpenExeConfiguration(ConfigurationUserLevel.None);
-            configuration.AppSettings.Settings["netFiles"].Value = textBox1.Text;
-            configuration.AppSettings.Settings["locFiles"].Value = textBox2.Text;
+            configuration.AppSettings.Settings["netFiles"].Value = tbNetFiles.Text;
+            configuration.AppSettings.Settings["locFiles"].Value = tbLocFiles.Text;
+            configuration.AppSettings.Settings["extensions"].Value = tbExt.Text;
+            configuration.AppSettings.Settings["copyDest"].Value = tbCopyDest.Text;
             configuration.AppSettings.Settings["whichFiles"].Value = strWhichFiles;
             configuration.Save();
             ConfigurationManager.RefreshSection("appSettings");

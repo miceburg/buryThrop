@@ -21,3 +21,4 @@ C:\Users\tmoore\Documents\GitHub\buryThrop\LastAccess\LastAccess\obj\Release\Las
 C:\Users\tmoore\Documents\GitHub\buryThrop\LastAccess\LastAccess\obj\Release\LastAccess.Properties.Resources.resources
 C:\Users\tmoore\Documents\GitHub\buryThrop\LastAccess\LastAccess\obj\Release\GenerateResource.read.1.tlog
 C:\Users\tmoore\Documents\GitHub\buryThrop\LastAccess\LastAccess\obj\Release\GenerateResource.write.1.tlog
+C:\Users\tmoore\Documents\GitHub\buryThrop\LastAccess\LastAccess\obj\Release\LastAccess.Forms.fmBoth.resources

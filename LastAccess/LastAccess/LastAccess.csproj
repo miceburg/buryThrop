@@ -51,25 +51,36 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Config.cs">
+    <Compile Include="Forms\Config.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Config.Designer.cs">
+    <Compile Include="Forms\Config.Designer.cs">
       <DependentUpon>Config.cs</DependentUpon>
     </Compile>
-    <Compile Include="LastAccessForm.cs">
+    <Compile Include="Forms\fmBoth.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="LastAccessForm.Designer.cs">
+    <Compile Include="Forms\fmBoth.Designer.cs">
+      <DependentUpon>fmBoth.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\LastAccessForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\LastAccessForm.Designer.cs">
       <DependentUpon>LastAccessForm.cs</DependentUpon>
     </Compile>
-    <Compile Include="LastAccess.cs" />
-    <Compile Include="Program.cs" />
+    <Compile Include="Classes\LastAccess.cs" />
+    <Compile Include="Classes\ListViewColumnSorter.cs" />
+    <Compile Include="Classes\Program.cs" />
+    <Compile Include="Classes\myObject.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Config.resx">
+    <EmbeddedResource Include="Forms\Config.resx">
       <DependentUpon>Config.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="LastAccessForm.resx">
+    <EmbeddedResource Include="Forms\fmBoth.resx">
+      <DependentUpon>fmBoth.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\LastAccessForm.resx">
       <DependentUpon>LastAccessForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
@@ -82,7 +93,9 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
-    <None Include="App.config" />
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
